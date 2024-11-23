@@ -1,0 +1,54 @@
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Controls.ControlsPicker.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Controls.KeyPicker.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Controls.SelectWindowCrosshair.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.AboutWnd.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.AddKeyMappingDlg.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.BorderWnd.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.MulticontrollerWnd.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.OptionsDlg.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Forms.WindowGroupsForm.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\TTMulti.Properties.Resources.resources
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\bin\Debug\ToontownMulticontroller.exe.config
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\bin\Debug\ToontownMulticontroller.exe
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\bin\Debug\ToontownMulticontroller.pdb
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\ToontownMulticontroller.exe
+C:\Users\Spenc\Desktop\ControllerNew(Vanilla)\Controller\obj\Debug\ToontownMulticontroller.pdb
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\bin\Debug\ToontownMulticontroller.exe.config
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\bin\Debug\ToontownMulticontroller.exe
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\bin\Debug\ToontownMulticontroller.pdb
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Controls.ControlsPicker.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Controls.KeyPicker.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Controls.SelectWindowCrosshair.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.AboutWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.AddKeyMappingDlg.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.BorderWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.MulticontrollerWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.OptionsDlg.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Forms.WindowGroupsForm.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\TTMulti.Properties.Resources.resources
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\ToontownMulticontroller.exe
+C:\Users\Spenc\Desktop\Controller New (Modified)\Controller\obj\Debug\ToontownMulticontroller.pdb
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\bin\Debug\Calculator.exe.config
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\bin\Debug\Calculator.exe
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\bin\Debug\Calculator.pdb
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Controls.ControlsPicker.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Controls.KeyPicker.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Controls.SelectWindowCrosshair.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.AboutWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.AddKeyMappingDlg.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.BorderWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.MulticontrollerWnd.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.OptionsDlg.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Forms.WindowGroupsForm.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Controller.csproj.GenerateResource.cache
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.exe
+C:\Users\Spenc\Desktop\Controller New (Delay + Disabled Keys)\Controller\obj\Debug\Calculator.pdb
